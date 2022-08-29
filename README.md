@@ -1,5 +1,5 @@
 # merge-sass
-From https://github.com/iceleo-com/merge-sass
+From https://github.com/iceleo-com/merge-sass <br>
 This tool can merge non-compiled SASS
 
 # Installation
